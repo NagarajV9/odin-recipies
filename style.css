@@ -8,6 +8,15 @@ a {
 
 #main-title {
 	color: blueviolet;
+	text-align: center;
+	padding: 12px;
+	margin: 2px;
+	border: 1px solid yellow;
+}
+
+.recipe-list {
+	text-align: center;
+	border: 1px solid red;
 }
 
 .recipe-page {
