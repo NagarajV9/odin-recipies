@@ -1,0 +1,28 @@
+a {
+	color : black;
+}
+
+.main-page {
+	background-color: darkseagreen;
+}
+
+#main-title {
+	color: blueviolet;
+}
+
+.recipe-page {
+	background-color: rgb(107, 88, 47);
+}
+
+#pic {
+	height: 200px;
+	width: auto;
+}
+
+.headings {
+	color: antiquewhite;
+}
+
+.instruction-text {
+	color: beige;
+}
